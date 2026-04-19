@@ -37,7 +37,7 @@ The documentation includes:
 > - [Чек-лист тестирования](https://docs.google.com/spreadsheets/d/1uGVzOqg-zRuJO2y_w08iy0j3khmH-Tl_ORz8zyPTNt8/edit?usp=sharing)
 > - [Таблица тест-кейсов](https://docs.google.com/spreadsheets/d/1ueKEwaW_UBrqidfk7YeiDKvFAMK4ID50kgRf2mue27I/edit?usp=sharing)
 > - [Таблица баг-репортов](https://docs.google.com/spreadsheets/d/1PKIs4JIUdTdbUJbS2r-My4avploT4B0aTwxCipv8MWg/edit?usp=sharing)
-> - [Отчет о тестировании](https://docs.google.com/document/d/1Hmy4L4KRdwHFnIbXQis06kSNjljkIM3LiXzx5VRTrSs/edit?usp=sharing)
+> - [Отчет о тестировании](https://docs.google.com/document/d/1o5nU7gQzTI1w3L4ThEjXuxLJj4mqN96eSn21CgqCSnU/edit?usp=sharing)
 ---
 
 
