@@ -15,20 +15,29 @@
 - Таблицу баг-репортов
 - Отчет о тестировании
 
-### Как запустить:
-#### Первый способ: запуск из исходного кода
-- Скачайте репозиторий
-```bash
-git clone https://github.com/chokedlm/inventory-testing-report
-```
-- Перейдите в папку проекта
-```bash
-cd inventory-testing-report
-```
-- Запустите код
-```bash
-python inventory.py
-```
+## EN
 
+**Inventory** is a test application written in Python for practicing software testing and writing test documentation. The application includes the following features:
+- Open inventory
+- Purchase an item
+- Equip an item
+- Delete an item
+- Close inventory
+
+The documentation includes:
+- Test plan
+- Testing checklist
+- Test-cases table
+- Bug-report table
+- Test report
+
+---
+## Документация
+> - [План тестирования](https://docs.google.com/document/d/1Z0mPexSEsKx_47XXdGyHiqA7kT-q7s3jLW-3MWfM6S4/edit?usp=sharing)
+> - [Чек-лист тестирования](https://docs.google.com/spreadsheets/d/1uGVzOqg-zRuJO2y_w08iy0j3khmH-Tl_ORz8zyPTNt8/edit?usp=sharing)
+> - [Таблица тест-кейсов](https://docs.google.com/spreadsheets/d/1ueKEwaW_UBrqidfk7YeiDKvFAMK4ID50kgRf2mue27I/edit?usp=sharing)
+> - [Таблица баг-репортов](https://docs.google.com/spreadsheets/d/1PKIs4JIUdTdbUJbS2r-My4avploT4B0aTwxCipv8MWg/edit?usp=sharing)
+> - [Отчет о тестировании](https://docs.google.com/document/d/1Hmy4L4KRdwHFnIbXQis06kSNjljkIM3LiXzx5VRTrSs/edit?usp=sharing)
+---
 
 
