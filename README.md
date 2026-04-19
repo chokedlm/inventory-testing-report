@@ -1,35 +1,16 @@
-# 🎮 Game Inventory & Shop Testing Project
+#QA Portfolio
 
-## 📌 Description
-This project demonstrates testing of a game inventory and shop system.  
-It includes a Python implementation and a full set of QA documentation.
+##RU
+Inventory --- тестовое приложение, написанное на Python для отработки тестирования и написания тестовой документации. Приложение включает в себя функции:
+-Открыть инвентарь
+-Купить предмет
+-Экипировать предмет 
+-Удалить предмет
+-Закрыть инвентарь
 
-## 🎯 Objectives
-- Verify correct behavior of the inventory system
-- Test equip/unequip functionality
-- Validate shop operations
-- Identify and document bugs
+Дкументация включает в себя:
+-Чек-лист тестирования
+-Таблицу тест-кейсов
+-Таблицу баг-репортов
+-Отчет о тестировании
 
-## 🧪 Testing Scope
-- Inventory system
-- Item equip logic
-- Item removal
-- Shop interactions
-
-## 📄 Documentation
-
-- 📋 [Testing Checklist](https://docs.google.com/your-checklist-link)
-- 🧪 [Test Cases Table](https://docs.google.com/your-testcases-link)
-- 🐞 [Bug Reports Table](https://docs.google.com/your-bugs-link)
-- 📊 [Test Report](https://docs.google.com/your-report-link)
-
-## 🛠 Tech Stack
-- Python 3.10
-- Tkinter (UI)
-- Windows 11
-
-## ▶️ How to Run
-
-### Option 1: Run from source
-```bash
-python main.py
